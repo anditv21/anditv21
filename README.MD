@@ -8,7 +8,7 @@
    <br>
    - :eyes: I’m interested in <b>Web-Development, C# and Python</b>
    <br>
-   - :telescope: I’m currently working on Private Projects and <a href="https://github.com/anditv21/WindowsRegistryTool">WindowsRegistryTool</a>
+   - :telescope: Currently I`mm mostly working on private projects and sometimes on <a href="https://github.com/anditv21/WindowsRegistryTool">WindowsRegistryTool</a>
 </div>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
