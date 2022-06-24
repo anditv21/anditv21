@@ -32,7 +32,7 @@
    </a> 
    <br>
    <br>
-   <img src=https://github-readme-stats.vercel.app/api?username=anditv21&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515 height="180em"> 
+   <img src=https://github-readme-stats.vercel.app/api?username=anditv21&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&var=17 height="180em"> 
    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=anditv21&langs_count=8&layout=compact&text_color=daf7dc&bg_color=151515&var=17/ height="180em" 
    <br>
    <br>
