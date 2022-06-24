@@ -34,7 +34,11 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="40" height="40"/> 
    </a> 
    <br>
-   <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=anditv21&langs_count=8&layout=compact&text_color=daf7dc&bg_color=151515&var=17/ width="350" height="350"/> 
+   <br>
+   <img src=https://github-readme-stats.vercel.app/api?username=anditv21&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515 height="180em"> 
+   <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=anditv21&langs_count=8&layout=compact&text_color=daf7dc&bg_color=151515&var=17/ height="180em" 
+   <br>
+   <br>
 <br>
    <a href="https://github.com/anditv21?tab=repositories"><img src=https://activity-graph.herokuapp.com/graph?username=anditv21&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true/></a>
 </p>
