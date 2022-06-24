@@ -24,9 +24,6 @@
    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" > 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/> 
    </a> 
-   <a href="https://www.python.org" > 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
-   </a> 
    <a href="https://vscode.dev"> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
    </a> 
