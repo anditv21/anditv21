@@ -6,7 +6,7 @@
 </h3>
 <div align="center">
    <br>
-   - :eyes: I’m interested in <b>Web-Development, C# and Python</b>
+   - :eyes: I’m interested in <b>Web-Development and C#</b>
    <br>
    - :telescope: Currently I`m mostly working on private projects and sometimes on <a href="https://github.com/anditv21/znixv2-panel-edit-edit">znixv2-panel-edit</a>
 </div>
