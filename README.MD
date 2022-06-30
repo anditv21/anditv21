@@ -36,7 +36,12 @@
    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=anditv21&langs_count=8&layout=compact&text_color=daf7dc&bg_color=151515&var=18 height="180em"> 
    <br>
    <br>
+   <details align="center">
+  <summary>Click to see my Wakatime stats</summary>
+  <br />
    <img src=https://github-readme-stats.vercel.app/api/wakatime?username=anditv21&layout=compact&bg_color=151515&var=18 height="180em"   
+</details>
+
    <br>
    <br>
 <br>
