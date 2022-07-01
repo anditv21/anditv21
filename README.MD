@@ -30,18 +30,18 @@
    <a href="https://visualstudio.microsoft.com/vs/community/" > 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="40" height="40"/> 
    </a> 
+
+   <details align="center">
+  <summary>Click to see my stats</summary>
+  <br />
+   <img src=https://github-readme-stats.vercel.app/api/wakatime?username=anditv21&layout=compact&bg_color=151515&var=18 height="180em"   
+</details>
    <br>
    <br>
    <img src=https://github-readme-stats.vercel.app/api?username=anditv21&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&var=18 height="180em"> 
    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=anditv21&langs_count=8&layout=compact&text_color=daf7dc&bg_color=151515&var=18 height="180em"> 
    <br>
    <br>
-   <details align="center">
-  <summary>Click to see my Wakatime stats</summary>
-  <br />
-   <img src=https://github-readme-stats.vercel.app/api/wakatime?username=anditv21&layout=compact&bg_color=151515&var=18 height="180em"   
-</details>
-
    <br>
    <br>
 <br>
