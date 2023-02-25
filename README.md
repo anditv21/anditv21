@@ -14,6 +14,6 @@
    <summary>Click to see more Stats</summary>
    <br>
    <img src="https://readme.anditv.it/api?username=anditv21&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&var=21" height="180" width="auto">
-   <a href="https://github.com/anditv21?tab=repositories"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=anditv21&theme=react-dark"/></a>
+   <a href="https://github.com/anditv21?tab=repositories"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anditv21&theme=github_dark"/></a>
 </details>
 </p>
