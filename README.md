@@ -5,9 +5,6 @@
 </h3>
 <div align="center">
     :telescope: I’m currently working on a user management <a href="https://github.com/anditv21/panel/">panel</a>
-<br>
-   👯‍♂️ I’m looking for collaborators on <a href="https://github.com/anditv21/panel/">panel</a>
-<br>
    <br>
 </div>
 <details align="center">
