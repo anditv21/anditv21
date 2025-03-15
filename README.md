@@ -1,6 +1,6 @@
 <h3 align="center">
 
-   <a href="https://discord.com/users/854024514781315082/"><img src="https://lanyard.cnrad.dev/api/854024514781315082?bg=0d1117" height="180" width="auto"></a>
+   <a href="https://discord.com/users/854024514781315082/"><img src="https://lanyard.cnrad.dev/api/854024514781315082?bg=0d1117&var=1" height="180" width="auto"></a>
      <br> 
 </h3>
 <div align="center">
